@@ -1,0 +1,5 @@
+https://data.kma.go.kr/normals/table.do
+https://data.kma.go.kr/normals/anal4.do
+https://www.worldometers.info/
+https://en.wikipedia.org/wiki/Mathematical_constant
+https://en.wikipedia.org/wiki/Physical_constant
